@@ -1,0 +1,9 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說金剛手菩薩降伏一切部多大教王經
+#+DATE: 2015-08-30 20:30:37.132682
+#+PROPERTY: JUAN 0
+#+PROPERTY: ID KR6j0344
+#+PROPERTY: SOURCE 高麗藏 東國大學校影印本
+#+PROPERTY: BASEEDITION T
+#+PROPERTY: WITNESS TKD
+¶

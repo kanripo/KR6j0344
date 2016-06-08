@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:30:36.866050
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:55
 #+TITLE: 佛說金剛手菩薩降伏一切部多大教王經
 #+PROPERTY: CBETA_ID T20n1129
 #+PROPERTY: ID KR6j0344
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1129
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0344_T_001-0548c> 
 #+PROPERTY: JUAN 1
 ¶
-No.1129¶
-
- 佛說金剛手菩薩降伏一切部¶
+No. 1129¶
+佛說金剛手菩薩降伏一切部¶
 多大教王經卷上¶
 ¶
 西天譯經三藏朝散大夫試鴻臚卿¶
@@ -26,9 +25,9 @@ No.1129¶
 　功德清淨大寶海
 　善能安住佛剎中¶
 　時我一心歸命禮
-　降伏部多最上王
+　降伏部多最上王」
 #+END_VERSE
-」¶
+¶
 
 爾時佛告三界主金剛手菩薩。說降伏一切¶
 部多大教王成就之法。時金剛手菩薩言。若¶
@@ -149,7 +148,7 @@ No.1129¶
 堅固拳舒出中指。此印用召請及供養。令最¶
 上部多速與成就。以二手合拳舒頭指。此印¶
 能令持三昧者。部多女速與成就。以左手作¶
-堅固拳竪小指。此印能令一切部多現前與¶
+堅固拳堅小指。此印能令一切部多現前與¶
 作成就。復舒左手頭指如鉤捺大母指。此¶
 印能降伏一切部多。以左手頭指及無名指¶
 舒展。能鉤一切部多及除一切魔。以左手作¶
